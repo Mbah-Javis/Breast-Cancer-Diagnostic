@@ -5,7 +5,7 @@ is a <strong>BENIGN</strong> or <strong>MALIGNANT</strong> tumor. The datasets t
 
 <h3>How the input is taken and processed to ouput</h3>
 
-<p>1. <strong><h2>Input</h2></strong></p>
+<p><strong><h2>Input</h2></strong></p>
 The inputs are a bunch of features and measurements of the tumor like the measurement of the Nuclei which includes measuring
 <ul>
   <li>Radius</li>
@@ -15,7 +15,7 @@ The inputs are a bunch of features and measurements of the tumor like the measur
   </ul>
   and more. 
  
- <p>2.<strong><h2> Ouput </h2></strong></p>
+ <p><strong><h2> Ouput </h2></strong></p>
   The ouput is the classification. The dataset came as M for MALIGNANT and B for BENIGN. In the datasets, i exchange M for 1 and B for 0
   and i divided the dataset into two that is (X_data.csv) and (Y_data.csv) 
   
