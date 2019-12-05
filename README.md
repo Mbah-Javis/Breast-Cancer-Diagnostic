@@ -18,6 +18,6 @@ The inputs are a bunch of features and measurements of the tumor like the measur
  <p><strong><h2> Ouput </h2></strong></p>
   <p>The ouput is the classification. The dataset came as M for MALIGNANT and B for BENIGN. In the datasets, i exchange M for 1 and B for 0
   and i divided the dataset into two that is (X_data.csv) and (Y_data.csv) </p>
-  <br>
+  
 Every other thing about the model is found in this [notebook](https://github.com/Mbah-Javis/Breast-Cancer-Diagnostic/blob/master/Classification%20Model%20on%20Breast%20Cancer%20Data%20set%20.ipynb) that is i commented on every line of code.
   
